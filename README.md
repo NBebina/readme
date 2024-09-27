@@ -61,4 +61,3 @@ _July 2024 - Present_
 
 ---
 
-Feel free to customize any sections or add more information as needed!
