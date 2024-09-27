@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Bebina Nayak
-
 📍 Cuttack, Odisha  
-📧 nayakbebina015@gmail.com  
-📞 +91 9692148498  
 
 ## 🎓 Education
 - **B.Tech. in Computer Science Engineering**  
